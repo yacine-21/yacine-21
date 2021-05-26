@@ -29,7 +29,7 @@
       </ul>
 </div>
 
-<img src="https://thumbs.gfycat.com/MeatyUnhappyDowitcher-max-1mb.gif" witdh="100px" alt="gif"/>
+<img src="https://thumbs.gfycat.com/MeatyUnhappyDowitcher-max-1mb.gif" style="witdh:100vw" alt="gif"/>
 
 
 <!--START_SECTION:waka-->
