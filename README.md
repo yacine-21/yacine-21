@@ -2,7 +2,7 @@
 
 <img src="https://thumbs.gfycat.com/MeatyUnhappyDowitcher-max-1mb.gif" alt="gif"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yacine-21.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yacine-21.)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yacine-21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
