@@ -18,12 +18,14 @@
 <div>
       <p>- 👯 I’m looking to collaborate on any projet that I can help and collaborate, and I would love work on open source code</p>
       <ul>
-            <h3>I CAN HELP IN ... </H3>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JAVA</li>
-            <li>JAVASCRIPT</li>
-            <li>REACT</li>
+            <h4>I can help in ... or at least tro to help in ...  </h4>
+                  <li>HTML</li>
+                  <li>CSS</li>
+                  <li>JAVA</li>
+                  <li>JAVASCRIPT</li>
+                  <li>REACT</li>
+                  <li>NODE</li>
+                  <li>MONGOOSE</li>
       </ul>
 </div>
 
