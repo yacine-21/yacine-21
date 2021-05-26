@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on an APP REACT FINAL FANTASY !!
-      It's a school project to learn and practice on a framework , I choose React insteand of Angular and Vue...
+      <p>It's a school project to learn and practice on a framework , I choose React instead of Angular and Vue...<p/>
             here you can have a preview ! BUT WARINING THE RESPONSIVE IS NOT DONE YET !! so please be nice with me 😄😄  :
                 => https://final-fantasy-xiv-website.herokuapp.com/
 
