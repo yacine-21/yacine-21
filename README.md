@@ -1,8 +1,7 @@
 ### <h1>🔥🔥🔥 Hi there it's Yacine 🔥🔥🔥</h1>
 
 <img src="https://thumbs.gfycat.com/MeatyUnhappyDowitcher-max-1mb.gif" alt="gif"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yacine-21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="100%" width="100%" src="https://wakatime.com/share/@Seito_Shinkiel/efbb7487-d523-43e8-a0cb-da07d959cfa2.svg" />
+
 
 <div>
       - 🔭 I’m currently working on an APP REACT FINAL FANTASY !!
@@ -28,13 +27,7 @@
       </ul>
 </div>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   1 hr 38 mins    ██████████████████████▓░░   90.48 % 
-HTML         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Java         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-```
-<!--END_SECTION:waka-->
+
 
 <!--
 **yacine-21/yacine-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
