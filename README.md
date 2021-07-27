@@ -1,7 +1,6 @@
 ### <h1 align='center'>🔥🔥🔥 Hi there it's Yacine 🔥🔥🔥</h1>
 
-<div>
-      <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76114edc79bf4b22ad8bbc60effa5012599a41c690af&rid=giphy.gif&ct=g" alt="gif"/>
+<div align='center'>
       <a href="https://app.daily.dev/yacine_21"><img src="https://api.daily.dev/devcards/7a7698e5b6974529a4fbc5caa173756c.png?r=d61" width="400" alt="Yacine Lyoubi's Dev Card"/></a>
 </div>
 
