@@ -10,7 +10,7 @@
            
 </div>
 <div>
-      <p>- 🌱 I’m currently learning JAVA, I'm following many courses on Udemy, openclassrooms and youtube and I like it !</p>      
+      <p>- 🌱 I’m confortable with REACT,POSTGRESS,TAILWIND CSS, EXPRESS,REDUX , I'm following many courses on Udemy, openclassrooms and youtube and I like it !</p>      
 </div>
 
 <div>
