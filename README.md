@@ -1,12 +1,13 @@
-### <h1>🔥🔥🔥 Hi there it's Yacine 🔥🔥🔥</h1>
-
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76114edc79bf4b22ad8bbc60effa5012599a41c690af&rid=giphy.gif&ct=g" alt="gif"/>
-<a href="https://app.daily.dev/yacine_21"><img src="https://api.daily.dev/devcards/7a7698e5b6974529a4fbc5caa173756c.png?r=yn3" width="400" alt="Yacine Lyoubi's Dev Card"/></a>
-
+### <h1 align='center'>🔥🔥🔥 Hi there it's Yacine 🔥🔥🔥</h1>
 
 <div>
-      - 🔭 I’m currently working on an APP REACT FINAL FANTASY !!
-      <p>It's a school project to learn and practice on a framework , I choose React instead of Angular and Vue...<p/>
+      <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76114edc79bf4b22ad8bbc60effa5012599a41c690af&rid=giphy.gif&ct=g" alt="gif"/>
+      <a href="https://app.daily.dev/yacine_21"><img src="https://api.daily.dev/devcards/7a7698e5b6974529a4fbc5caa173756c.png?r=yn3" width="400" alt="Yacine                  Lyoubi's Dev Card"/></a>
+</div>
+
+<div>
+      - 🔭 I’m currently working on an APP REACT  !!
+      <p>It's a personnal project to learn and practice on a framework <p/>
            
 </div>
 <div>
