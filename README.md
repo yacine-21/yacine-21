@@ -5,12 +5,12 @@
 </div>
 
 <div>
-      - 🔭 I’m currently working on an APP REACT  !!
-      <p>It's a personnal project to learn and practice on a framework <p/>
+      
            
 </div>
 <div>
-      <p>- 🌱 I’m confortable with REACT,POSTGRESS,TAILWIND CSS, EXPRESS,REDUX , I'm following many courses on Udemy, openclassrooms and youtube and I like it !</p>      
+      <p>- 🌱 I’m confortable with REACT,POSTGRESS,TAILWIND CSS, EXPRESS,REDUX, REACT NATIVE, PHP, SYMFONY, SQL
+            <br> I'm following many courses on Udemy, openclassrooms and youtube and I like it !</p>      
 </div>
 
 <div>
