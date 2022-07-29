@@ -27,6 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="<h3 align="https://bio.link/yacine_lyoubi" target="_blank">All my links</a></h3>
 <p align="left">
 <a href="https://app.daily.dev/yacine_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yacine_21" height="30" width="40" /></a>
 <a href="https://twitter.com/yacine_d_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yacine_d_21" height="30" width="40" /></a>
