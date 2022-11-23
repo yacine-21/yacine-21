@@ -22,7 +22,7 @@
 
 - 💬 Ask me about anything, If I can help you don't hesitate **(React, React Native, GraphQL, Strapi, Node)**
 
-- 📫 How to reach me **yacinelyoubi37@gmail.com**
+- 📫 How to reach me **yacinelyoubi_tech@protonmail.com**
 
 - 💼 How to connect with me on MALT (Freelance)  **https://www.malt.fr/profile/yacinelyoubi**
 
