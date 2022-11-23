@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yacine-lyoubi-psi-eosin.vercel.app/](https://yacine-lyoubi-psi-eosin.vercel.app/)
 
-- 💬 Ask me about anything, If I can help you don't hesitate **(React, React Native, GraphQL, Strapi, Node)**
+- 💬 Ask me about anything, If I can help you don't hesitate
 
 - 📫 How to reach me **yacinelyoubi_tech@protonmail.com**
 
