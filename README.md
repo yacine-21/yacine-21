@@ -3,9 +3,8 @@
 <h1> If pleases you , you can <a href="https://www.buymeacoffee.com/yacinelyoubi">Buy me a coffee</a> in order to support me ☕ <h1> 
 
 <div align='center'>
-<img src="https://tryhackme-badges.s3.amazonaws.com/nightstandvisiti.png" width="500" alt="Yacine Lyoubi's Badge THM"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Seito21.png" width="500" alt="Yacine Lyoubi's Badge THM"/>
 </div>
-      
       
 <div align='center'>
       <a href="https://app.daily.dev/yacine_21"><img src="https://api.daily.dev/devcards/7a7698e5b6974529a4fbc5caa173756c.png?r=0yj" alt="Yacine Lyoubi's Dev Card"/></a>
