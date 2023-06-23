@@ -1,6 +1,5 @@
 ### <h1 align='center'>🔥🛡️⚔ Hi it's Yacine ⚔🛡️🔥</h1>
-<h3 align="center">A passionate fullStack developer from France</h3>
-<h1> If pleases you , you can <a href="https://www.buymeacoffee.com/yacinelyoubi">Buy me a coffee</a> in order to support me ☕ <h1> 
+<h3 align="center">A passionate fullStack developer from France and pentester/cybersecurity analyst</h3>
 
 <div align='center'>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Seito21.png" width="500" alt="Yacine Lyoubi's Badge THM"/>
