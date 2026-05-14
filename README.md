@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yacine-lyoubi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://app.hackthebox.com/users/1491093?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
   <a href="https://tryhackme.com/p/Seito21"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://www.malt.fr/profile/yacinelyoubi"><img src="https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white"/></a>
   <a href="https://ysolutionscybertech.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
